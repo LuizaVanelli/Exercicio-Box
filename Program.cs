@@ -13,6 +13,7 @@ namespace Exercicio_Box
             Console.ForegroundColor = ConsoleColor.White; 
             Console.WriteLine("|");
             Console.WriteLine("+---------------+");
+            Console.ResetColor();
         }
     }
 }
